@@ -28,7 +28,7 @@ import (
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"
 
-	"github.com/dgraph-io/dgo/v230/protos/api"
+	"github.com/billprovince/dgo/protos/api"
 )
 
 // LoginParams stores the information needed to perform a login request.
