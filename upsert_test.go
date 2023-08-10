@@ -25,8 +25,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/dgraph-io/dgo/v230"
-	"github.com/dgraph-io/dgo/v230/protos/api"
+	"github.com/billprovince/dgo"
+	"github.com/billprovince/dgo/protos/api"
 )
 
 func TestCondUpsertCorrectingName(t *testing.T) {

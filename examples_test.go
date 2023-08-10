@@ -26,8 +26,8 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/dgraph-io/dgo/v230"
-	"github.com/dgraph-io/dgo/v230/protos/api"
+	"github.com/billprovince/dgo"
+	"github.com/billprovince/dgo/protos/api"
 )
 
 const (
